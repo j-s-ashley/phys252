@@ -1,0 +1,30 @@
+Who measured?,Method?,Height [m],Uncertainty [m],Notes
+Erik and Noah,Measuring Tape,26.5176,0.1608,"Uncertainty comes from the slack in the measuring tape between the floor and the rail on the stairwell, the shift in position of the two testers, and the potential uncertainty of the measurement of the tape"
+Erik and Noah,Measure the Stairs,25.612,0.6098,The uncertainty per step is 0.0065m for each of the 138 steps.
+"Andrew, Jack, Hagen",measuring tape down staricase,25.4,0.05,"1 cm uncertainty on bottom of stairs from measuring tape precision (tape touched the floor), 5 cm uncertainty on the top due to placing measuring tape on the railing rather than the floor on the 7th floor (roof access). Assuming there was +/- 0.2 meters horizontal distance b/n our tape at the top and bottom, we would only get an additional 0.0008 m of uncertainty, which is negligible. We measured the railing separately, becuase we didn't realize measurements were supposed to be taken from the top of the raling on the 7th floor. This gave .03 cm uncertainty on top because the railing is about 5 cm in diameter, and 1 cm on the bottom because of the precision on the measuring tape."
+"Andrew, Jack, Hagen",time dropping ball,22,6,
+Shawn and Joshua,Counting and measuring bricks from outside,28.01,0.524,Each brick was wildly different in height
+Shawn and Joshua,Counting and measuring stairs,28.68,0.01,Uncertainty comes from measuring top of stairs to the roof.
+"Zach, Evan, Mikayla",use of Clinometer,22.427,1.14,"Uncertainty in measurement of base length, height off the ground, and angle from ground to the roof."
+"Zach, Evan, Mikayla",Timing ball drop,28.634,1.18,Uncertainty in measuring the time as well as in the exact hieght of the ball when dropped.
+Rory and Abbie,Timing ball drop,32.7,0.3,Uncertainty from timer and height of the ball at initial drop and when hitting the ground
+Rory and Abbie,Measuring stairwell,27.7,0.0127,Uncertainty from tape measurer and potential human error
+Hunter and Lucas,timing ball drop,27.63,1.96,uncertainty from timer error
+Hunter and Lucas,measuring stairwell,26.54,0.35,uncertainty from meter stick accuracy
+Zach and Will,Measuring the Floors,25.865,0.07826,"We had an uncertainty of 0.01m for the exact measurement of the outside bricks. Furthermore, for the sake of brevity, we assumed the stair portions at the bottom and the top of the building to constitute half of a normal floor. Consequently, we measured 7 floors total for the building. "
+Zach and Will ,Ball Drop,27.783,0.91,"Uncertainty from inaccurate timing for ball drop, as well as a 0.1cm uncertainty for the measurement of the bricks of the staircase. As with the first method, there is uncertainty in exactly what the portion of the partial stairs is."
+Logan and Jeff,measuring floors,25.59,2.6587,uncertainty from measurement error
+Logan and Jeff,measuring stairs,29.35,2.659,uncertainty from measurement error
+Isaac and Jason,Measuring floors,25.59,2.658721,uncertainty from measurement error
+Isaac and Jason,Measuring Stairs,29.35,2.658721,uncertainty from measurement error
+Abbi and Corey,Measuring height of one floor,22.04,5.22,"uncertainty from measurement error, the difference in height between floors, the sections between the floors"
+Abbi and Corey,dropping ball,23.22,0.401,"uncertaitny from measurement error, the ball dropped on the last stair and created uncertainty"
+"Cordney, Cora, Rebekah ",Measuring the Height of Each Staircase,27.84,0.55,"Each floor could be a different height, Uncertainty from measurement error.  "
+"Jake, Lexy, Aaron",Angle Method ,34.4,4.79,Uncertainty based on measuring the angle as well as the distnace from the building 
+"Jake, Lexy, Aaron",Ball Drop ,41.03,13.83,Uncertianty based on starting and stopping the timer 
+Cy and Jeremy,Measuring bricks,27.05,0.01,Uncertainty based on the tiles being the same size and the measuring tape reading errors
+Cy and Jeremy,Measuring Stairs,26.22,0.03,Uncertainty based on the stairs having different measurements and not being consistent
+"Tanner, Elijah, Chris",Ball Drop,28.52,0.39,Uncertainty from delay between the ball hitting the floor and the timer stopping
+"Tanner, Elijah, Chris",Measuring Stairs,27.54,0.39,Uncertainty from assuming all stairs were the same height
+Steph and Opal,String length of stairwell height,28.08,0.06,Uncertainty based on elasticity of string and estimation of height from ceiling to roof 
+Steph and Opal,Angle Method ,37.74,9.485,"Uncertainty based on poor measurements with meter stick, eyeing the levelness of the protractor"
